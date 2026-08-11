@@ -15,7 +15,7 @@ public class day1
         System.out.println("안녕하세요 저는 "+name1+ name2 +name3+" 입니다");
 
         System.out.println("나이는 " +age+  "살 이에요");
-        System.out.println("늙은이이지만 잘부탁드립니다.");
+        System.out.println("잘부탁드립니다.");
 
 // char는 1, String은4지만, 코드 작성에 있어 효율과 가독의 중도를 지켜야함
 // 그리고 사람이름이 세글자라는 보장이 없으니 범용성도 생각할 것
@@ -36,8 +36,8 @@ public class day1
         */
 
 //        System.out.println("오늘은 멋사 첫 프리코스 수업입니다");
-//        System.out.println("비전공자 입장에서 죽을맛이에요");
-//        System.out.println("이 길이 내 길이 맞을까요");
+//        System.out.println("비전공자 입장이라 떨린당");
+//        System.out.println("길찾기");
 //        System.out.println("3:30");
 
 //        System.out.println(27+100);
