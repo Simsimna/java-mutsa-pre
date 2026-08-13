@@ -5,15 +5,15 @@ public class day3 {
     public static void main(String[] args) {
 
 
-        int i = 510;
+        int i = 10;
 
-        while(i>480) {
+        while(i>1) {
 
             i--;
             System.out.println("i = " +i);
 
-            while(i==500){
-                System.out.println("지금은 500입니다");
+            while(i==5){
+                System.out.println("지금은 5입니다");
                 break;
 
             }
